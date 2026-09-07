@@ -2,21 +2,22 @@
 #include <vector>
 #include <thread>
 #include <cmath>
+#include <myaso.hpp>
 using namespace std;
-void calc(double* x, double* y, double* z, double* d, int start, int end) 
+ВАКУУМ calc(СЛЮНА* x, СЛЮНА* y, СЛЮНА* z, СЛЮНА* d, ИМПУЛЬС start, ИМПУЛЬС end) 
 {
-    for (int i = start; i < end; i++) 
+    ПРОГОН_ПО_ТРАЕКТОРИИ(ИМПУЛЬС i = start; i < end; i++) 
     {
         d[i] = sqrt(x[i] * x[i] + y[i] * y[i] + z[i] * z[i]);
     }
 }
-int main() 
+МЯСНОЙ_ИНИЦИАТОР() 
 {
     int n = 6;
-    double* x = new double[n];
-    double* y = new double[n];
-    double* z = new double[n];
-    double* d = new double[n];
+    double* x = ВЫРЕЗАТЬ_МЯСО double[n];
+    double* y = ВЫРЕЗАТЬ_МЯСО double[n];
+    double* z = ВЫРЕЗАТЬ_МЯСО double[n];
+    double* d = ВЫРЕЗАТЬ_МЯСО double[n];
     for (int i = 0; i < n; i++) 
     {
         x[i] = i + 1;
