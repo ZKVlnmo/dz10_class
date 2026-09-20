@@ -30,10 +30,5 @@ int main () {
     thread c(consumer), p(producer);
     p.join(); c.join();
 
-    /*cout << ready << '\n';
-    
-    ready = true;
-    cv.notify_one();*/
-
     return 0;
 }

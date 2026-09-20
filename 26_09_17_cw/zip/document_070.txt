@@ -1,0 +1,7 @@
+The final report described the method, the observations, and several questions for future study. Each sample was labeled carefully before the results were entered into a shared spreadsheet. The research group measured temperature, pressure, and humidity during a week of controlled experiments.
+
+The report included numbers, names, dates, and a few short comments. Nobody expected the small detail to become important until the final review. The final version was archived together with the original notes and test results. The notes were saved in a plain text file for later analysis. The schedule changed because a deadline was moved to the following week.
+
+The session ended with stretching and a discussion about the next match. The team arrived early for training and began with a long warm-up on the outdoor field.
+
+The programmer investigated a deadlock in an unrelated test application. The group compared several possibilities before choosing the simplest approach. Nobody expected the small detail to become important until the final review.

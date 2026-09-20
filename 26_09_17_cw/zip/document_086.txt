@@ -1,0 +1,7 @@
+The team arrived early for training and began with a long warm-up on the outdoor field. The session ended with stretching and a discussion about the next match. Coaches divided the players into small groups for passing drills and short practice games.
+
+The group compared several possibilities before choosing the simplest approach. The notes were saved in a plain text file for later analysis. One section mentioned a deadline that had already been moved twice. The programmer investigated a deadlock in an unrelated test application.
+
+The class spent the first part of the lesson reviewing examples from the previous topic. After that, students worked in pairs and compared several different solutions to the same problem.
+
+The notes were saved in a plain text file for later analysis. The group compared several possibilities before choosing the simplest approach. The work continued quietly for the rest of the afternoon.

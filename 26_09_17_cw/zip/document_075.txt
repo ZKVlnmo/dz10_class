@@ -1,0 +1,7 @@
+The class spent the first part of the lesson reviewing examples from the previous topic. The teacher asked everyone to explain not only the answer, but also the reasoning behind it. After that, students worked in pairs and compared several different solutions to the same problem.
+
+One section mentioned a deadline that had already been moved twice. The work continued quietly for the rest of the afternoon. The programmer investigated a deadlock in an unrelated test application. The final version was archived together with the original notes and test results.
+
+Coaches divided the players into small groups for passing drills and short practice games. The session ended with stretching and a discussion about the next match.
+
+The work continued quietly for the rest of the afternoon. A short message was added to the record so that the next person could understand the context. The programmer investigated a deadlock in an unrelated test application.
