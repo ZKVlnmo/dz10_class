@@ -30,12 +30,9 @@ void threadFunc(stack<Task> *tasks, vector<TaskStat> &tasksStats) {
         tasks->pop();
         tasksStats.push_back(TaskStat(nowTask.id, "work"));
         lock.unlock();
-
-        nowTask.execute();
         
-        lock.lock();
+        nowTask.execute();
         tasksStats[nowTask.id - 1].updateStatus("FINISHED!");
-        lock.unlock();
     }
 }
 
@@ -45,7 +42,7 @@ int main() {
     vector<thread> threads;
     int treadsCount = 100;
     
-    thread fillTaskThread(fillTaskStack, &tasks, 100);
+    thread fillTaskThread(fillTaskStack, &tasks, 1000);
     
     for (int i = 0; i < treadsCount; ++i)
     threads.push_back(thread(threadFunc, &tasks, ref(tasksStats)));
